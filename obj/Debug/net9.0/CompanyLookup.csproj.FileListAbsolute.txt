@@ -1,0 +1,17 @@
+C:\Users\chhan\OneDrive - UiT Office 365\CompanyLookup\bin\Debug\net9.0\CompanyLookup.exe
+C:\Users\chhan\OneDrive - UiT Office 365\CompanyLookup\bin\Debug\net9.0\CompanyLookup.deps.json
+C:\Users\chhan\OneDrive - UiT Office 365\CompanyLookup\bin\Debug\net9.0\CompanyLookup.runtimeconfig.json
+C:\Users\chhan\OneDrive - UiT Office 365\CompanyLookup\bin\Debug\net9.0\CompanyLookup.dll
+C:\Users\chhan\OneDrive - UiT Office 365\CompanyLookup\bin\Debug\net9.0\CompanyLookup.pdb
+C:\Users\chhan\OneDrive - UiT Office 365\CompanyLookup\bin\Debug\net9.0\CsvHelper.dll
+C:\Users\chhan\OneDrive - UiT Office 365\CompanyLookup\obj\Debug\net9.0\CompanyLookup.csproj.AssemblyReference.cache
+C:\Users\chhan\OneDrive - UiT Office 365\CompanyLookup\obj\Debug\net9.0\CompanyLookup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chhan\OneDrive - UiT Office 365\CompanyLookup\obj\Debug\net9.0\CompanyLookup.AssemblyInfoInputs.cache
+C:\Users\chhan\OneDrive - UiT Office 365\CompanyLookup\obj\Debug\net9.0\CompanyLookup.AssemblyInfo.cs
+C:\Users\chhan\OneDrive - UiT Office 365\CompanyLookup\obj\Debug\net9.0\CompanyLookup.csproj.CoreCompileInputs.cache
+C:\Users\chhan\OneDrive - UiT Office 365\CompanyLookup\obj\Debug\net9.0\CompanyL.231351E0.Up2Date
+C:\Users\chhan\OneDrive - UiT Office 365\CompanyLookup\obj\Debug\net9.0\CompanyLookup.dll
+C:\Users\chhan\OneDrive - UiT Office 365\CompanyLookup\obj\Debug\net9.0\refint\CompanyLookup.dll
+C:\Users\chhan\OneDrive - UiT Office 365\CompanyLookup\obj\Debug\net9.0\CompanyLookup.pdb
+C:\Users\chhan\OneDrive - UiT Office 365\CompanyLookup\obj\Debug\net9.0\CompanyLookup.genruntimeconfig.cache
+C:\Users\chhan\OneDrive - UiT Office 365\CompanyLookup\obj\Debug\net9.0\ref\CompanyLookup.dll

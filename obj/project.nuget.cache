@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fYi8WfFUCBw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chhan\\OneDrive - UiT Office 365\\CompanyLookup\\CompanyLookup.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chhan\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
